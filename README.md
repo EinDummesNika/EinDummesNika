@@ -1,10 +1,12 @@
 ## 👋 안녕, I'm [Nika]
-## I'm the founder of **ZenithSphere Systems**, a future-oriented group focused on **IT services**, **secure data storage**, and **digital organization systems**.  <br>Right now, I'm working on building a **security system** for our storage servers, with reliability and structure at its core.<br><br>💻 I'm a **beginner in programming**, currently learning **Go (Golang)** and using **Visual Studio Code** as my main development environment. My goal is to build scalable, secure solutions for digital infrastructure.<br><br>🧱 In my creative downtime, I design custom **Minecraft skins** with **Blockbench** and build immersive & detailed historic-oriented buildings as a **Minecraft builder** – combining visual thinking with structural logic.
+# I'm the founder of **ZenithSphere Systems**, a future-oriented group focused on **IT services**, **secure data storage**, and **digital organization systems**.
+# Right now, I'm working on building a **security system** for our storage servers, with reliability and structure at its core.
+# 💻 I'm a **beginner in programming**, currently learning **Go (Golang)** and using **Visual Studio Code** as my main development environment. My goal is to build scalable, secure solutions for digital infrastructure.
+# 🧱 In my creative downtime, I design custom **Minecraft skins** with **Blockbench** and build immersive & detailed historic-oriented buildings as a **Minecraft builder** – combining visual thinking with structural logic.
 
+# 📫 You can reach me on discord: [n1xk4y] 
 
-## 📫 You can reach me on discord: [n1xk4y] 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Nika-Weigel/pfbid02dbPyNUSJdk12g5NBHbWyWjiqFRFWt5eLwhwAAbzQVDQMQWPamKvNykhHDcECTj8Jl/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ni1kaa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@ni1.kaa) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/n1xk4y) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@EinDummesNika) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nika@zenithsphere.de) 
 
 # 💻 Tech Stack:
@@ -22,6 +24,3 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/eindummesnika) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/FabriceWeigel) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
